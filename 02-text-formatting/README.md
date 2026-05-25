@@ -25,6 +25,11 @@ Meaning:
 
 ---
 
+
+<p>This is <i>italic</i> text.</p>
+
+<p>This is <em>important</em> text.</p>
+
 Interview answer in very simple words:
 
 > “`<b>` tag is used only for bold text styling, but `<strong>` tag is used for important text. Both look bold, but `<strong>` gives meaning that the content is important.”
